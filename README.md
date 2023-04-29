@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on similar projects 
 - 📫 How to reach me ▶️ awsdevopsresources@gmail.com
 - Official 📷 on youtube channel: https://www.youtube.com/channel/UCDalssvq2pHV8EErZyWXb6g/about
+- GitHub pages: https://awsdevopresources.github.io/awsdevopsresources/
 
 
 
